@@ -2,7 +2,7 @@
 
 ## 🚀 Passionate Frontend Developer Based in Lagos, Nigeria
 
-I'm a detail-driven Frontend Developer with 3+ years of experience building scalable, accessible, and pixel-perfect web applications using **React**, **Next.js**, and **TypeScript**.
+I'm a detail-driven Frontend Developer with almost half a decade of experience building scalable, accessible, and pixel-perfect web applications using **React**, **Next.js**, and **TypeScript**.
 
 I specialize in translating Figma designs into high-performance components, optimizing user experiences, and mentoring the next generation of developers. When I'm not coding, I'm probably solving UI puzzles or building tools that make the internet more delightful!
 
@@ -55,8 +55,8 @@ I specialize in translating Figma designs into high-performance components, opti
 ---
 
 ## 📫 Connect With Me
-- **Email:** funshocornelius.dev@gmail.com
-- **LinkedIn:** [Coming Soon 🔥]
+- **Email:** funshocornelius95@gmail.com
+- **LinkedIn:** <a href="https://www.linkedin.com/in/funsho-olusumbo-897397140/">Funsho Olusumbo</a>
 
 ---
 
