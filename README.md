@@ -2,9 +2,11 @@
 
 ## 🚀 Passionate Frontend Developer Based in Lagos, Nigeria
 
-I'm a detail-driven Frontend Developer with almost half a decade of experience building scalable, accessible, and pixel-perfect web applications using **React**, **Next.js**, and **TypeScript**.
+I'm a detail-driven Frontend Developer with almost half a decade of experience building scalable, accessible, and pixel-perfect web applications using **React**, **Next.js**, and **TypeScript**. 
 
 I specialize in translating Figma designs into high-performance components, optimizing user experiences, and mentoring the next generation of developers. When I'm not coding, I'm probably solving UI puzzles or building tools that make the internet more delightful!
+
+I’m looking to collaborate on Open-source frontend projects – Especially those involving **Next.js**, **React**, or **TypeScript**.<br>🤝
 
 ---
 
@@ -52,11 +54,14 @@ I specialize in translating Figma designs into high-performance components, opti
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-4A4A4A?style=for-the-badge&logo=pnpm&logoColor=F69220)
 
+### **Database:**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+
 ### **Others:**  
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) 
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
