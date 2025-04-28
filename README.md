@@ -34,16 +34,8 @@ I specialize in translating Figma designs into high-performance components, opti
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=funshocornelius&show_icons=true&theme=radical" alt="Funsho's GitHub stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=funshocornelius&theme=radical" alt="GitHub Streak" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funshocornelius&layout=compact&theme=radical" alt="Top Languages" width="50%" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=FunshoCornelius&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
