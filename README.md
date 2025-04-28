@@ -1,4 +1,4 @@
-# Hi 👋, I'm Funsho Cornelius
+# Hi 👋, I'm Funsho Cornelius Olusumbo
 
 ## 🚀 Passionate Frontend Developer Based in Lagos, Nigeria
 
