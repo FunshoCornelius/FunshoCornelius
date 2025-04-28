@@ -50,7 +50,7 @@ I specialize in translating Figma designs into high-performance components, opti
 ### **Package Managers:**  
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-[PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) 
+![PNPM](https://img.shields.io/badge/PNPM-4A4A4A?style=for-the-badge&logo=pnpm&logoColor=F69220)
 
 ### **Others:**  
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) 
